@@ -1,6 +1,6 @@
 /* CLAN ZERO - CONFIGURA ESTOS DOS DATOS CUANDO LOS TENGAS */
 const SITE_CONFIG = {
-  discordInvite: '',          // Ejemplo: 'https://discord.gg/TUINVITACION'
+  discordInvite: '',          // Ejemplo: 'https://discord.gg/CQNq45GTaa'
   serverAddress: '',         // Ejemplo: '123.45.67.89:2001'
 };
 
